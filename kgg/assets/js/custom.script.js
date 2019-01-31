@@ -140,8 +140,8 @@
                     /*+ '<span class="lgx-weecks">%w <i> weeks </i></span> '*/
                     + '<span class="lgx-days">%D <i> Gün </i></span> '
                     + '<span class="lgx-hr">%H <i> Saat </i></span> '
-                    + '<span class="lgx-min">%M <i style="font-size:15px;"> Dakika </i></span> '
-                    + '<span class="lgx-sec">%S <i style="font-size:15px;"> Saniye </i></span>'
+                    + '<span class="lgx-min">%M <i style="font-size:1.5rem;"> Dakika </i></span> '
+                    + '<span class="lgx-sec">%S <i style="font-size:1.5rem;"> Saniye </i></span>'
                 ));
             });
         }
